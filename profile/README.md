@@ -1,8 +1,22 @@
 <h1 align="center">AntHiLL</h1>
 
 <p align="center">
-  AntHiLL is a healthy community that unites programmers and designers from all over the world! We try to create a miracle while having a great time together. Don't miss the opportunity - join us!
+    <img src="https://avatars.githubusercontent.com/u/129376721?s=200&v=4" />
 </p>
+
+<p align="center">
+  AntHiLL is a community of programmers and designers from all over the world!
+</p>
+
+<p align="center">
+  We try to create a miracle while having a great time together. Don't miss the opportunity - join us!
+</p>
+
+<p align="center">
+    Developing cool projects, communicating and sharing valuable skills - it's all here!
+</p>
+
+#
 
 <p align="center">
     <a href="https://discord.gg/PBqf6nJN7d"><img src="https://img.shields.io/discord/1103163562626658327?label=discord&logo=discord" alt="Discord Online"></a>
