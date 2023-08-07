@@ -1,19 +1,19 @@
-<h1 align="center">AntHiLL</h1>
+<h1 align="center"><samp>&gt; AntHiLL❚</samp></h1>
 
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/129376721?s=200&v=4" />
 </p>
 
 <p align="center">
-  AntHiLL is a community of programmers and designers from all over the world!
+  <samp>「 AntHiLL — a community of programmers and designers from all over the world! 」</smap>
 </p>
 
 <p align="center">
-  We try to create a miracle while having a great time together. Don't miss the opportunity - join us!
+  <samp>「 We try to create a miracle while having a great time together. Don't miss the opportunity - join us! 」</samp>
 </p>
 
 <p align="center">
-    Developing cool projects, communicating and sharing valuable skills - it's all here!
+    <samp>「 Developing cool projects, communicating and sharing valuable skills — it's all here! 」</samp>
 </p>
 
 #
